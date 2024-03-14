@@ -8,7 +8,7 @@
 
 ## JavaScript
 
-* [Basics](<README (1).md>)
+* [Basics](javascript/basics/README.md)
   * [Introduction](javascript/basics/introduction.md)
   * [Literals , Identifiers, Variables](javascript/basics/literals-identifiers-variables.md)
   * [Comments](javascript/basics/comments.md)
