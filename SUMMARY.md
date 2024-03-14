@@ -1,8 +1,14 @@
 # Table of contents
 
+* [Introduction](README.md)
+* [Getting Started](getting-started.md)
+* [Changelog](changelog.md)
+* [Authors](authors.md)
+* [Maintainers](maintainers.md)
+
 ## JavaScript
 
-* [Basics](README.md)
+* [Basics](<README (1).md>)
   * [Introduction](javascript/basics/introduction.md)
   * [Literals , Identifiers, Variables](javascript/basics/literals-identifiers-variables.md)
   * [Comments](javascript/basics/comments.md)
