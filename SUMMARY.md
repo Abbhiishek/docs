@@ -1,10 +1,11 @@
 # Table of contents
 
 * [🎓 Introduction](README.md)
-* [Getting Started](getting-started.md)
-* [Changelog](changelog.md)
-* [Authors](authors.md)
-* [Maintainers](maintainers.md)
+* [🐢 Getting Started](getting-started.md)
+* [⚡ Changelog](changelog.md)
+* [✍️ Authors](authors.md)
+* [👨‍🚀 Maintainers](maintainers.md)
+* [🛣️ Roadmap](roadmap.md)
 
 ## JavaScript
 
