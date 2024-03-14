@@ -6,7 +6,7 @@ coverY: 0
 
 # 🎓 Introduction
 
-[NavDocs](https://navdocs.example.com) is a comprehensive document platform designed specifically for developers seeking to expand their knowledge base. This platform offers a wide range of resources, including detailed guides and valuable resources, to aid developers in learning and mastering new technologies. Whether you're looking to dive into the latest programming languages, explore cutting-edge development tools, or understand best practices, NavDocs provides a robust repository of information to support your growth as a developer.
+[NavDocs](https://docs.dresume.me/v1/) is a comprehensive document platform designed specifically for developers seeking to expand their knowledge base. This platform offers a wide range of resources, including detailed guides and valuable resources, to aid developers in learning and mastering new technologies. Whether you're looking to dive into the latest programming languages, explore cutting-edge development tools, or understand best practices, NavDocs provides a robust repository of information to support your growth as a developer.
 
 
 
