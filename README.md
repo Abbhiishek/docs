@@ -1,8 +1,6 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cm9hZHxlbnwwfHx8fDE3MTAzOTcxOTF8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
+
+[](https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cm9hZHxlbnwwfHx8fDE3MTAzOTcxOTF8MA&ixlib=rb-4.0.3&q=85)
+
 
 # 🎓 Introduction
 
